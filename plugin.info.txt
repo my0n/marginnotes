@@ -1,0 +1,6 @@
+base   marginnotes
+author my0n
+email  my0n@protonmail.com
+date   2019-11-23
+name   marginnotes plugin
+desc   Display notes in the margin using <mnote>
